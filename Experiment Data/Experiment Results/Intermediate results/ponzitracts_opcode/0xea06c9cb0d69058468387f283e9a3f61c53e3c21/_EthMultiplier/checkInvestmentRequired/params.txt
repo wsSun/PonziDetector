@@ -1,0 +1,10 @@
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier checkInvestmentRequired  0xb05c true
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier checkInvestmentRequired  0x6bc2 true
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier checkInvestmentRequired  0x7bcf true
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier checkInvestmentRequired  0x541c true
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier checkInvestmentRequired  0x7d62 true
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier checkInvestmentRequired  0xf4b2 false
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier checkInvestmentRequired  0x0dba true
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier checkInvestmentRequired  0x5428 false
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier checkInvestmentRequired  0xbcc2 true
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier checkInvestmentRequired  0x71f1 false

@@ -1,0 +1,1 @@
+"[{\"constant\":true,\"inputs\":[],\"name\":\"getNumInvestors\",\"outputs\":[{\"name\":\"a\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"fallback\"}]"

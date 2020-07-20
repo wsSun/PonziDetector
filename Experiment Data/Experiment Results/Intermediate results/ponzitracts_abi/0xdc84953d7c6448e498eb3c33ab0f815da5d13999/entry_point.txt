@@ -1,0 +1,1 @@
+{"constant":false,"inputs":[{"name":"_owner","type":"address"}],"name":"setOwner","outputs":[],"type":"function"}{"constant":true,"inputs":[{"name":"","type":"uint256"}],"name":"participants","outputs":[{"name":"etherAddress","type":"address"},{"name":"PayAmount","type":"uint256"}],"type":"function"}

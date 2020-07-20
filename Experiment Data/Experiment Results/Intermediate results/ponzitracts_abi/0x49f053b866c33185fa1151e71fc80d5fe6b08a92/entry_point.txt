@@ -1,0 +1,1 @@
+{"constant":true,"inputs":[{"name":"nr","type":"uint256"}],"name":"participantDetails","outputs":[{"name":"Address","type":"address"},{"name":"PayinInFinney","type":"uint256"},{"name":"PayoutInFinney","type":"uint256"},{"name":"PaidOut","type":"string"}],"payable":false,"stateMutability":"view","type":"function"}

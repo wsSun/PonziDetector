@@ -1,0 +1,1 @@
+{"constant":true,"inputs":[{"name":"","type":"uint256"}],"name":"depositors","outputs":[{"name":"EtherAddress","type":"address"},{"name":"Amount","type":"uint256"}],"type":"function"}

@@ -1,0 +1,1 @@
+{"inputs":[{"name":"_startingAmount","type":"uint256"}],"payable":false,"stateMutability":"nonpayable","type":"constructor"}

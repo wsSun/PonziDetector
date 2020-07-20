@@ -1,0 +1,10 @@
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier setPayOutPercentage  0x15
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier setPayOutPercentage  0x34
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier setPayOutPercentage  0x42
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier setPayOutPercentage  0x76
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier setPayOutPercentage  0x7f
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier setPayOutPercentage  0xc2
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier setPayOutPercentage  0x47
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier setPayOutPercentage  0x92
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier setPayOutPercentage  0xd7
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier setPayOutPercentage  0xbe

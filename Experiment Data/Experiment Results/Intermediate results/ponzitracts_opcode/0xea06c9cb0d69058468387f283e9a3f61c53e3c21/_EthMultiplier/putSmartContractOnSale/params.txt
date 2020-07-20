@@ -1,0 +1,10 @@
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier putSmartContractOnSale  true
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier putSmartContractOnSale  false
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier putSmartContractOnSale  false
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier putSmartContractOnSale  false
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier putSmartContractOnSale  false
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier putSmartContractOnSale  true
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier putSmartContractOnSale  true
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier putSmartContractOnSale  false
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier putSmartContractOnSale  false
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier putSmartContractOnSale  true

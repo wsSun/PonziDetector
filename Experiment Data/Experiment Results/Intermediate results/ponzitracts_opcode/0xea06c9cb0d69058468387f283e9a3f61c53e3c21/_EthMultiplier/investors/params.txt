@@ -1,0 +1,10 @@
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier investors  0x6bbb
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier investors  0x9aa3
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier investors  0x3927
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier investors  0x5099
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier investors  0x16a9
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier investors  0x0682
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier investors  0x1170
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier investors  0x7ef9
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier investors  0x9d7e
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier investors  0x3edf

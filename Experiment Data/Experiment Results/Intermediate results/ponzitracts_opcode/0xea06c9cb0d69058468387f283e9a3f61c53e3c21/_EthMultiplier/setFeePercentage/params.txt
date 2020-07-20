@@ -1,0 +1,10 @@
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier setFeePercentage  0xbc
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier setFeePercentage  0x7c
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier setFeePercentage  0x2a
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier setFeePercentage  0x15
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier setFeePercentage  0x3e
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier setFeePercentage  0x95
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier setFeePercentage  0xbd
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier setFeePercentage  0x55
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier setFeePercentage  0x77
+node fuzzer.js 0xea06c9cb0d69058468387f283e9a3f61c53e3c21 :EthMultiplier setFeePercentage  0x8f
