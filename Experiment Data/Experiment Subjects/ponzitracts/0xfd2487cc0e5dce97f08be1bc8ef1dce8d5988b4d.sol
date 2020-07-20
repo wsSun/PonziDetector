@@ -1,0 +1,4 @@
+ Doubler
+ enter
+ collectFees
+ setOwner

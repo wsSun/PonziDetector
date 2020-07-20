@@ -1,0 +1,12 @@
+ RES
+ SwarmRedistribution
+ changeJohanNygrensAddress
+ closeCampaign
+ buy
+ buyViaJohan
+ sell
+ transfer
+ swarmRedistribution
+ iterateThroughSwarm
+ doSwarm
+ removeDividendPathway

@@ -1,0 +1,3 @@
+ smallponzi
+ enter
+ setOwner

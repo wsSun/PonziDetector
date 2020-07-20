@@ -1,0 +1,15 @@
+ EtherAds
+ buyAd
+ prolongateContract
+ getMinimalDeposit
+ getCurrentLevel
+ updateTxStats
+ distributeEarnings
+ resetContract
+ setReferralId
+ collectFees
+ changeOwner
+ setOfficialWebsite
+ addCharityFundation
+ resetFoundationtList
+ giveMeat

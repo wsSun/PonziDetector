@@ -1,0 +1,13 @@
+ LuckyDoubler
+ function
+ init
+ join
+ rand
+ changeOwner
+ changeMultiplier
+ changeFee
+ multiplierFactor
+ currentFee
+ totalEntries
+ userStats
+ entryDetails

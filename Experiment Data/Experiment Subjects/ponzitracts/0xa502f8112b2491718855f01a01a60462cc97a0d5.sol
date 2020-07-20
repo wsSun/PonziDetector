@@ -1,0 +1,4 @@
+ UfoPonzi
+ enter
+ collectFees
+ setOwner

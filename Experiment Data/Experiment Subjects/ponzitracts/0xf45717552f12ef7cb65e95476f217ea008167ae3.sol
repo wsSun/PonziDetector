@@ -1,0 +1,9 @@
+ Government
+ lendGovernmentMoney
+ function
+ totalDebt
+ totalPayedOut
+ investInTheSystem
+ inheritToNextGeneration
+ getCreditorAddresses
+ getCreditorAmounts

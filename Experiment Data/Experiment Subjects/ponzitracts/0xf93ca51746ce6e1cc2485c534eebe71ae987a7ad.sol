@@ -1,0 +1,4 @@
+ Kardashian
+ enter
+ collectFees
+ setOwner

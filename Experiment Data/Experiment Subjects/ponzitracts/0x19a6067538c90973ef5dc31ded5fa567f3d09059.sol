@@ -1,0 +1,4 @@
+ FastRealisticPyramid
+ enter
+ collectFees
+ setOwner

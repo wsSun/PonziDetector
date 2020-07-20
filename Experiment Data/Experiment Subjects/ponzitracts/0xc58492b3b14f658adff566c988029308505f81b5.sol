@@ -1,0 +1,3 @@
+ PonziScheme
+ checkAmount
+ increaseRound

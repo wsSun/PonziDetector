@@ -1,0 +1,9 @@
+ Managed
+ setOfficialWebsite
+ SmartRevshare
+ found
+ invest
+ payout
+ testingContract
+ getDay
+ calculateROI

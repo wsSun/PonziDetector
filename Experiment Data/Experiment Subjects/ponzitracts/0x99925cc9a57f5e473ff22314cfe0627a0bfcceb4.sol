@@ -1,0 +1,10 @@
+ Bank_With_Interest
+ deposit
+ withdraw
+ set_minimum_payment
+ set_deposit_fee 
+ get_available_interest_amount 
+ get_term_deposit_end_date 
+ get_balance 
+ extend_life_of_contract 
+ close_bank

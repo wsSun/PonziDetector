@@ -1,0 +1,3 @@
+ newponzi
+ enter
+ setOwner
